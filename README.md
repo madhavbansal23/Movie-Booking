@@ -1,5 +1,5 @@
 # Movie Booking
-Android News App using Dagger2 Java Room
+Android Movie booking App using Dagger2 Java Room
 
 - Bookmyshow, Paytm like seat booking system<br/>
 - Has offline access using Room DB<br/>
